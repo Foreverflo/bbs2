@@ -1,11 +1,9 @@
 # byebyesecurly 2
 Hello!
 The original project was blocked. Here's a new one.
-This process may take a while, and could get you in trouble if caught. Don't blame me or anyone else except you if you get caught with this.
-The involves unenrolling your chromebook, and you will need to know at least a little about computers in order to use this.
-# You will nedd:
-Another computer or laptop, running linux or with a linux VM.
-At least one but preferrably two flash drives you are willing to rewrite.
-# How to use:
-Stage A:
-Go to [Sh1mmer](www.sh1mmer.me).
+This is much more limited as many of the unblockers are not in development anymore and of the ones that are, many of them are already blocked. The ones the still do work are very complicated to install, and if you are here I assume you don't know how to do that. For now, then, here is a bunch of links you can try.
+# Before you use:
+Before you use any of these websites, make sure you copy one of the proxy links found [here](http://tinyurl.com/29c8vjvv).
+# Link list:
+Clockwork OS: [Hosted by me[](http://tinyurl.com/2tcyew92)
+Lumi OS: [This runs as an HTML file, make sure you download it.](http://tinyurl.com/4ydaed2c)
