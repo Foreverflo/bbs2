@@ -5,5 +5,6 @@ This is much more limited as many of the unblockers are not in development anymo
 # Before you use:
 Before you use any of these websites, make sure you copy one of the proxy links found [here](http://tinyurl.com/29c8vjvv).
 # Link list:
-Clockwork OS: [Hosted by me[](http://tinyurl.com/2tcyew92)
+Clockwork OS: [Hosted by me](http://tinyurl.com/2tcyew92)
+
 Lumi OS: [This runs as an HTML file, make sure you download it.](http://tinyurl.com/4ydaed2c)
