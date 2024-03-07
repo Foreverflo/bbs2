@@ -10,4 +10,5 @@ Make sure you have a GitHub account.
 3a. Once you are in your codespace and it is fully loaded, type in the terminal onscreen: pnpm i && pnpm start.
 3b. You will only have to do step 3a once. Every time after, just type pnpm start.
 4. Please make sure to turn off advertisements in settings, or it will constantly redirect you to virus websites.
+
 Remember, you must open your codespace and do step 3b if you close the codespace for too long, and you should keep the codespace open during use.
