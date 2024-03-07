@@ -13,6 +13,10 @@ Make sure you have a GitHub account.
 
 3b. You will only have to do step 3a once. Every time after, just type pnpm start.
 
-4. Please make sure to turn off advertisements in settings, or it will constantly redirect you to virus websites.
+4. A popup will appear. Make sure you press "Make Public".
 
-Remember, you must open your codespace and do step 3b if you close the codespace for too long, and you should keep the codespace open during use.
+5. Go to the Ports tab, and find the running port. Click on the URL under "Forwarded Address".
+
+6. Please make sure to turn off advertisements in settings, or it will constantly redirect you to virus websites.
+
+Remember, you must open your codespace and do steps 3b and 5 if you close the codespace for too long, and you should keep the codespace open during use.
