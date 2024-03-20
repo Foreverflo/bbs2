@@ -3,10 +3,10 @@ Hello!
 The original project was blocked. Here's a new one.
 This is much more limited as many of the unblockers are not in development anymore and of the ones that are, many of them are already blocked. The ones that still do work are very complicated to install, and if you are here I assume you don't know how to do that. For now, then, here is a proxy site you can host.
 # Before you use:
-Make sure you have a GitHub account. 
-## Setting up:
+Make sure you have a GitHub account if you want to host your own server.
+# Setting up:
 
-# If you want to host your own server, follow the steps below:
+## If you want to host your own server, follow the steps below:
 
 1. Go to [Interstellar](https://github.com/InterstellarNetwork/Interstellar) and create a *Fork*. The fork button is in the top right corner.
 
@@ -24,6 +24,6 @@ Make sure you have a GitHub account.
 
 *Remember, you must open your codespace and do steps 3b and 5 if you close the codespace for too long, and you should keep the codespace open during use.*
 
-# If you don't want to host your own server, go to the following URL:
+## If you don't want to host your own server, go to the following URL:
 [Interstellar](https://math-byebyesecurly.koyeb.app/)
 
