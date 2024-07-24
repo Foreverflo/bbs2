@@ -25,5 +25,5 @@ Make sure you have a GitHub account if you want to host your own server.
 *Remember, you must open your codespace and do steps 3b and 5 if you close the codespace for too long, and you should keep the codespace open during use.*
 
 ## If you don't want to host your own server, go to the following URL:
-[Interstellar]([https://iready-math-byebyesecurly.koyeb.app/])
+[Interstellar](https://iready-math-byebyesecurly.koyeb.app/)
 
