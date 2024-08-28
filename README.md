@@ -4,7 +4,7 @@ The original project was blocked. Here's a new one.
 This is much more limited as many of the unblockers are not in development anymore and of the ones that are, many of them are already blocked. The ones that still do work are very complicated to install, and if you are here I assume you don't know how to do that. For now, then, here is a proxy site you can host.
 # Before you use:
 Make sure you have a GitHub account if you want to host your own server.
-# Setting up:
+# Proxy Service:
 
 ## If you want to host your own server, follow the steps below:
 
@@ -27,3 +27,6 @@ Make sure you have a GitHub account if you want to host your own server.
 ## If you don't want to host your own server, go to the following URL:
 [Interstellar](https://iready-math-byebyesecurly.koyeb.app/)
 
+# Skiovox
+
+## This may not work on all devices: follow the instructions [here](https://skiovox.netlify.app/skiovox.pdf)
