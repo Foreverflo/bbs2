@@ -31,14 +31,4 @@ Make sure you have a GitHub account if you want to host your own server.
 
 ## This may not work on all devices: follow the instructions [here](https://skiovox.netlify.app/skiovox.pdf)
 
-# Internet "VPN"
-
-1. Go to chrome://network/#state
-2. Click the + on the network your on
-3. Copy everything there
-4. Go to [https://edu.triutama.com/](https://edu.triutama.com/])
-5. Paste what you copied
-6. Download the file and extract the file
-7. Go to chrome://network/#general
-8. Scroll down and upload the file you extracted kill.onc
-
+# If the above do not work or you want something better, try [here](https://github.com/3kh0/ext-remover)
