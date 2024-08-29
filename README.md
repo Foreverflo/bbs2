@@ -31,4 +31,4 @@ Make sure you have a GitHub account if you want to host your own server.
 
 ## This may not work on all devices: follow the instructions [here](https://skiovox.netlify.app/skiovox.pdf)
 
-# If the above do not work or you want something better, try [here](https://github.com/3kh0/ext-remover)
+# If the above fail or you want something better, try [here](https://github.com/3kh0/ext-remover)
