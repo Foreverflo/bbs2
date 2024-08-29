@@ -8,21 +8,24 @@ Make sure you have a GitHub account if you want to host your own server.
 
 ## If you want to host your own server, follow the steps below:
 
+Prerequisites:
+Your own (personal) email
+Your own (personal) computer
+A github account
+
 1. Go to [Interstellar](https://github.com/InterstellarNetwork/Interstellar) and create a *Fork*. The fork button is in the top right corner.
 
-2. Once you have your fork and are on its page, press the green *Code* button, then *Codespaces*, *Create or Add a new codespace*.
+2. Go to [koyeb](koyeb.com) and create an account.
 
-3a. Once you are in your codespace and it is fully loaded, type in the terminal onscreen: *pnpm i && pnpm start*.
+3. If it didnt already, link your account to your github.
 
-3b. You will only have to do step 3a once. Every time after, just type pnpm start.
+4. Create a new project.
 
-4. A popup will appear. Make sure you press *Make Public*.
+5. Under *instance* select *free*.
 
-5. Go to the Ports tab, and find the running port. Click on the URL under *Forwarded Address*.
+6. Under *buildfile* or similar select *dockerfile*.
 
-6. Please make sure to *turn off advertisements in settings*, or it will constantly redirect you to virus websites.
-
-*Remember, you must open your codespace and do steps 3b and 5 if you close the codespace for too long, and you should keep the codespace open during use.*
+7. Click build/create.
 
 ## If you don't want to host your own server, go to the following URL:
 [Interstellar](https://iready-math-byebyesecurly.koyeb.app/)
