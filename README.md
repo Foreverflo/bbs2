@@ -9,9 +9,7 @@ Make sure you have a GitHub account if you want to host your own server.
 ## If you want to host your own server, follow the steps below:
 
 Prerequisites:
-Your own (personal) email
-Your own (personal) computer
-A github account
+Your own (personal) email, computer, and github account
 
 1. Go to [Interstellar](https://github.com/InterstellarNetwork/Interstellar) and create a *Fork*. The fork button is in the top right corner.
 
