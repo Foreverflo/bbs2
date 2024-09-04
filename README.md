@@ -4,6 +4,9 @@ The original project was blocked. Here's a new one.
 This is much more limited as many of the unblockers are not in development anymore and of the ones that are, many of them are already blocked. The ones that still do work are very complicated to install, and if you are here I assume you don't know how to do that. For now, then, here is a proxy site you can host.
 # Before you use:
 Make sure you have a GitHub account if you want to host your own server.
+
+# ONC Network Bypass
+Always try this step first, as it is the best. [link](https://github.com/JerryMyuu/ONC)
 # Proxy Service:
 
 ## If you want to host your own server, follow the steps below:
