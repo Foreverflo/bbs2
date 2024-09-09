@@ -6,7 +6,7 @@ This is much more limited as many of the unblockers are not in development anymo
 Make sure you have a GitHub account if you want to host your own server.
 
 # Wifi Password Finder
-If you want to use the any wifi on any device, try [this](https://github.com/cynicsketch/netexportwifipass).
+If you want to use any wifi on any device, try [this](https://github.com/cynicsketch/netexportwifipass).
 # ONC Network Bypass
 Always try this step first, as it is the best. [link](https://github.com/JerryMyuu/ONC)
 # Proxy Service:
