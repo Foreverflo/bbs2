@@ -9,9 +9,13 @@ Make sure you have a GitHub account if you want to host your own server.
 I AM IN NO WAY RESPONSIBLE FOR ANY CONSEQUENCES YOU MAY RECIEVE BY USING THESE TOOLS TO PLAY GAMES. YOU WERE GIVEN A TOOL TO ACCESS CENSORED INFORMATION WITHIN THE SCHOOL DISTRICT AND YOU MISUSED IT. THAT IS NOT IN ANY WAY MY FAULT. I created this guide because I got so annoyed when researching for projects and having every other page be blocked. THIS GUIDE IS NOT FOR PLAYING GAMES. I CAN AND WILL REMOVE YOUR ACCESS TO THESE SERVICES IF YOU BLATANTLY DO SO. IF YOU READ FURTHER YOU AGREE TO THESE TERMS.
 
 # Wifi Password Finder
+
 If you want to use any wifi on any device, try [this](https://github.com/cynicsketch/netexportwifipass).
+
 # ONC Network
-Always try this step first, as it is the best. [link](https://github.com/JerryMyuu/ONC)
+
+Always try this step first, as it is the best. [link](https://github.com/JerryMyuu/ONC).
+
 # Proxy Service:
 
 ## If you want to host your own server, follow the steps below:
@@ -34,10 +38,10 @@ Your own (personal) email, computer, and github account
 7. Click build/create.
 
 ## If you don't want to host your own server, go to the following URL:
-[Interstellar](https://iready-math-byebyesecurly.koyeb.app/)
+[Interstellar](https://iready-math-byebyesecurly.koyeb.app/).
 
 # Skiovox
 
-## This may not work on all devices: follow the instructions [here](https://skiovox.netlify.app/skiovox.pdf)
+This may not work on all devices: follow the instructions [here](https://skiovox.netlify.app/skiovox.pdf).
 
-# If the above fail or you want something better, try [here](https://github.com/3kh0/ext-remover)
+# If the above fail or you want something better, try [here](https://github.com/3kh0/ext-remover).
