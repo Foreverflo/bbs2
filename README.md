@@ -1,12 +1,12 @@
 # byebyearistotle
 Hello!
 The original project was blocked. Here's a new one.
-This is much more limited as many of the unblockers are not in development anymore and of the ones that are, many of them are already blocked. The ones that still do work are very complicated to install, and if you are here I assume you don't know how to do that. For now, then, here is a proxy site you can host.
+This is much more limited as many of the unblockers are not in development anymore and of the ones that are, many of them are already blocked. The ones that still do work are very complicated to install, and if you are here I assume you don't know how to do that. For now, then, here is a proxy site you can host, and a few other things.
 # Before you use:
 Make sure you have a GitHub account if you want to host your own server.
 
 # Disclaimer
-I AM IN NO WAY RESPONSIBLE FOR ANY CONSEQUENCES YOU MAY RECIEVE BY USING THESE TOOLS TO PLAY GAMES. YOU WERE GIVEN A TOOL TO ACCESS CENSORED INFORMATION WITHIN THE SCHOOL DISTRICT AND YOU MISUSED IT. THAT IS NOT IN ANY WAY MY FAULT. I created this guide because I got so annoyed when researching for projects and having every other page be blocked. THIS GUIDE IS NOT FOR PLAYING GAMES. I CAN AND WILL REMOVE YOUR ACCESS TO THESE SERVICES IF YOU BLATANTLY DO SO. IF YOU READ FURTHER YOU AGREE TO THESE TERMS.
+I AM IN NO WAY RESPONSIBLE FOR ANY CONSEQUENCES YOU MAY RECIEVE BY USING THESE TOOLS TO PLAY GAMES. YOU WERE GIVEN A TOOL TO ACCESS CENSORED INFORMATION WITHIN THE SCHOOL DISTRICT AND YOU MISUSED IT. THAT IS NOT IN ANY WAY MY FAULT. I created this guide because I got so annoyed when researching for projects and having every other page be blocked. THIS GUIDE IS NOT FOR PLAYING GAMES. I CAN AND WILL REMOVE YOUR ACCESS TO THESE SERVICES IF YOU BLATANTLY DO SO. IF YOU READ FURTHER YOU AGREE TO THESE TERMS. ANY VIOLATION OF THESE TERMS MAY RESULT IN A BAN OR BLOCK.
 
 # Wifi Password Finder
 
