@@ -38,7 +38,7 @@ Your own (personal) email, computer, and github account
 7. Click build/create.
 
 ## If you don't want to host your own server, go to the following URL:
-[Interstellar](https://iready-math-byebyesecurly.koyeb.app/).
+[Interstellar](https://clever-login-helper.koyeb.app/).
 
 # Skiovox
 
