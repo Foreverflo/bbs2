@@ -13,9 +13,9 @@ YOU ARE NOT TO SHARE THIS REPOSITORY WITHOUT THE OWNER'S CONSENT. ANY NOTCIABLE 
 
 If you want to use any wifi on any device, try [this](https://github.com/cynicsketch/netexportwifipass).
 
-# ONC Network
+# ONC Network Bypass
 
-Always try this step first, as it is the best. [link](https://github.com/JerryMyuu/ONC).
+Always try this step first, as it is the most reliable. [link](https://github.com/JerryMyuu/ONC).
 
 # Proxy Service:
 
