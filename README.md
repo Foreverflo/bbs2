@@ -7,7 +7,12 @@ Make sure you have a GitHub account if you want to host your own server.
 
 # Disclaimer / ToS
 I AM IN NO WAY RESPONSIBLE FOR ANY CONSEQUENCES YOU MAY RECIEVE BY USING THESE TOOLS TO PLAY GAMES. YOU WERE GIVEN A TOOL TO ACCESS CENSORED INFORMATION WITHIN THE SCHOOL DISTRICT AND YOU MISUSED IT. THAT IS NOT IN ANY WAY MY FAULT. I created this guide because I got so annoyed when researching for projects and having every other page be blocked. THIS GUIDE IS NOT FOR PLAYING GAMES. I CAN AND WILL REMOVE YOUR ACCESS TO THESE SERVICES IF YOU BLATANTLY DO SO. IF YOU READ FURTHER YOU AGREE TO THESE TERMS. ANY VIOLATION OF THESE TERMS MAY RESULT IN A BAN, BLOCK, OR REPORT.
-YOU ARE NOT TO SHARE THIS REPOSITORY WITHOUT THE OWNER'S CONSENT. ANY NOTCIABLE VIOLATION WILL RESULT IN ALL PARTIES BEING BANNED FROM THESE RESOURCES.
+YOU ARE NOT TO SHARE THIS REPOSITORY OR ANY LINKED REPOSITORIES WITHOUT THE OWNER OR OWNERS' CONSENT. ANY NOTCIABLE VIOLATION WILL RESULT IN ALL PARTIES BEING BANNED FROM THESE RESOURCES.
+
+# All-in-one chromebook utility package
+
+This [file](https://github.com/S-PScripts/chromebook-utilities/archive/refs/heads/main.zip) includes the links to thousands of games, exploits, unblockers, game hubs, etc.
+
 # Wifi Password Finder
 
 If you want to use any wifi on any device, try [this](https://github.com/cynicsketch/netexportwifipass).
