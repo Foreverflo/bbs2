@@ -26,7 +26,7 @@ Always try this step first, as it is the most reliable. [link](https://github.co
 If you want to use an in-browser virtual machine to bypass restrictions, here are a few options. I cannot guarantee their operation.
 [FlowOS v1](https://flowos-v1.vercel.app/)
 [FlowOS v2](https://flowos-v2.vercel.app/)
-[AnuraOS](anura.pro)
+[AnuraOS](https://anura.pro)
 
 # Proxy Service:
 
