@@ -21,6 +21,13 @@ If you want to use any wifi on any device, try [this](https://github.com/cynicsk
 
 Always try this step first, as it is the most reliable. [link](https://github.com/JerryMyuu/ONC).
 
+# Virtual Operating System
+
+If you want to use an in-browser virtual machine to bypass restrictions, here are a few options. I cannot guarantee their operation.
+[FlowOS v1](https://flowos-v1.vercel.app/)
+[FlowOS v2](https://flowos-v2.vercel.app/)
+[AnuraOS](anura.pro)
+
 # Proxy Service:
 
 ## If you want to host your own server, follow the steps below:
