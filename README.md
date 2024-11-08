@@ -53,11 +53,11 @@ Your own (personal) email, computer, and github account
 
 7. Click build/create.
 
-## If you don't want to host your own server, go to the following URL:
-[HolyUnblocker](https://clever-login-helper.koyeb.app/).
+## If you don't want to host your own server, go to the following URL and find a working proxy link:
+[ByePassHub](https://github.com/Foreverflo/ByePassHub).
 
 # Skiovox
 
 This may not work on all devices: follow the instructions [here](https://skiovox.netlify.app/skiovox.pdf).
 
-# If the above fail or you want something better, try [here](https://github.com/3kh0/ext-remover).
+# If the above fail or you want something better, try [here](https://github.com/Foreverflo/ByePassHub).
