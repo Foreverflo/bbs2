@@ -28,6 +28,10 @@ If you want to use an in-browser virtual machine to bypass restrictions, here ar
 [FlowOS v2](https://flowos-v2.vercel.app/)
 [AnuraOS](https://anura.pro)
 
+# Downloadable Proxy:
+
+A completely unblockable, offline, and faster proxy [browser](https://helios-gold.vercel.app/)
+
 # Proxy Service:
 
 ## If you want to host your own server, follow the steps below:
@@ -50,7 +54,7 @@ Your own (personal) email, computer, and github account
 7. Click build/create.
 
 ## If you don't want to host your own server, go to the following URL:
-[Interstellar](https://clever-login-helper.koyeb.app/).
+[HolyUnblocker](https://clever-login-helper.koyeb.app/).
 
 # Skiovox
 
